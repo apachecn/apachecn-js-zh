@@ -1,35 +1,3 @@
-<!--
-    需要填充的占位符：
-    
-    README.md
-    
-        ApacheCN JavaScript 译文集：文档中文名
-        {nameEn}：文档英文名
-        {urlEn}：文档原始链接
-        js：域名前缀
-        飞龙：负责人名称
-        wizardforcel：负责人 Github 用户名
-        562826179：负责人 QQ
-        apachecn-js-zh：ApacheCN 的 Github 仓库名称
-        apachecn-js-zh：DockerHub 仓库名称
-        apachecn-js-zh：PYPI 包名称
-        apachecn-js-zh：NPM 包名称
-    
-    CNAME
-    
-        js：域名前缀
-
-    index.html
-    
-        ApacheCN JavaScript 译文集：文档中文名
-        {color}：显示颜色
-        apachecn-js-zh：ApacheCN 的 Github 仓库名称
-
-    asset/docsify-apachecn-footer.js
-    
-        apachecn-js-zh：ApacheCN 的 Github 仓库名称
--->
-
 # ApacheCN JavaScript 译文集
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -39,6 +7,10 @@
 * [在线阅读](https://js.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
+
+## 目录
+
++   [JavaScript 编程精解 中文第三版](docs/eloquent-js-3e-zh/SUMMARY.md)
 
 ## 贡献指南
 
