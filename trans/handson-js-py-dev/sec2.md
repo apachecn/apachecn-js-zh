@@ -1,4 +1,4 @@
-Section 2 - Using JavaScript on the Front-End
+# 第二部分：在前端使用 JavaScript
 
 是时候编写代码了! 让我们将 JavaScript 的理论知识应用到前端的实践中，学习如何在页面上实际使用它。
 

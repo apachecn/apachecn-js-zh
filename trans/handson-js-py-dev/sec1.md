@@ -1,4 +1,4 @@
-Section 1 - What is JavaScript? What is it not?
+# 第一部分：什么是 JavaScript？ 什么不是？
 
 啊，JavaScript，神秘的怪兽。 让我们来分析一下它是什么，不是什么，因为前端离不开它，而后端则喜欢它。
 

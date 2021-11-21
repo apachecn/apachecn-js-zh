@@ -1,4 +1,4 @@
-Section 4 - Communicating with Databases
+# 第四部分：与数据库通信
 
 JavaScript 全栈体验的最后一部分是数据库层。 我们将使用 NoSQL 数据存储，因为它们使用类似 json 的文档。
 
