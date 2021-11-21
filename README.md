@@ -21,6 +21,16 @@
 +   [精通 JavaScript 设计模式](docs/master-js-deign-ptn/SUMMARY.md)
 +   [精通 JavaScript 函数式编程](docs/master-js-fp/SUMMARY.md)
 +   [JavaScript 专家级编程](docs/prof-js/SUMMARY.md)
++   [使用 JavaScript 构建 web 和移动 ArcGIS 服务器应用](docs/build-web-mobi-arcgis-svr-app-js/SUMMARY.md)
++   [Cypress 端到端 Web 测试](docs/e2e-web-test-cypress/SUMMARY.md)
++   [JavaScript 数据结构和算法实用手册](docs/handson-dsal-js/SUMMARY.md)
++   [JavaScript 物联网编程](docs/iot-prog-js/SUMMARY.md)
++   [Jasmine JavaScript 测试](docs/jasmine-js-test/SUMMARY.md)
++   [Three.js 学习手册](docs/learn-3js/SUMMARY.md)
++   [JavaScript 面向对象编程](docs/oo-js/SUMMARY.md)
++   [JavaScript 物联网实战](docs/prac-iot-js/SUMMARY.md)
++   [ReasonML 快速启动指南](docs/reasonml-quick-start-guide/SUMMARY.md)
++   [Webpack 5 启动和运行指南](docs/webpack5-up-run/SUMMARY.md)
 
 ## 贡献指南
 
