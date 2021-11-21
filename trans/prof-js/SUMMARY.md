@@ -1,3 +1,4 @@
++   [JavaScript 专家级编程](README.md)
 +   [零、前言](00.md)
 +   [一、JavaScript, HTML, DOM](01.md)
 +   [二、Node.js 和 NPM](02.md)
@@ -10,4 +11,3 @@
 +   [九、事件驱动编程和内置模块](09.md)
 +   [十、JavaScript 函数式编程](10.md)
 +   [十一、附录](11.md)
-+   [JavaScript 专家级编程](README.md)

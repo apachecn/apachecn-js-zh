@@ -1,3 +1,4 @@
++   [JavaScript 示例](README.md)
 +   [零、前言](0.md)
 +   [一、建立待办事项清单](1.md)
 +   [二、建立一个表情图创建器](2.md)
@@ -6,4 +7,3 @@
 +   [五、开发天气小部件](5.md)
 +   [六、使用 React 建立一个博客](6.md)
 +   [七、Redux](7.md)
-+   [JavaScript 示例](README.md)
