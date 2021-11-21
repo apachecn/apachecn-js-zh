@@ -11,6 +11,16 @@
 ## 目录
 
 +   [JavaScript 编程精解 中文第三版](docs/eloquent-js-3e-zh/SUMMARY.md)
++   [JavaScript 高级编程](docs/adv-js/SUMMARY.md)
++   [TypeScript 高级编程项目](docs/adv-ts-prog-proj/SUMMARY.md)
++   [JavaScript 代码整洁指南](docs/clean-code-js/SUMMARY.md)
++   [写给 Python 开发者的 JavaScript 实用指南](docs/handson-js-py-dev/SUMMARY.md)
++   [JavaScript 高性能实用指南](docs/hanfson-js-hiperf/SUMMARY.md)
++   [JavaScript 领域驱动设计](docs/js-ddd/SUMMARY.md)
++   [JavaScript 示例](docs/js-exam/SUMMARY.md)
++   [精通 JavaScript 设计模式](docs/master-js-deign-ptn/SUMMARY.md)
++   [精通 JavaScript 函数式编程](docs/master-js-fp/SUMMARY.md)
++   [JavaScript 专家级编程](docs/prof-js/SUMMARY.md)
 
 ## 贡献指南
 
