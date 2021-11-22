@@ -31,6 +31,16 @@
 +   [JavaScript 物联网实战](docs/prac-iot-js/SUMMARY.md)
 +   [ReasonML 快速启动指南](docs/reasonml-quick-start-guide/SUMMARY.md)
 +   [Webpack 5 启动和运行指南](docs/webpack5-up-run/SUMMARY.md)
++   [ArcGIS JavaScript 开发示例](docs/arcgis-js-dev-exam/SUMMARY.md)
++   [使用 Danfo.js 构建数据驱动应用](docs/build-data-driven-app-danfo/SUMMARY.md)
++   [JavaScript 函数式编程](docs/func-prog-js/SUMMARY.md)
++   [JavaScript 机器学习实用指南](docs/handson-ml-js/SUMMARY.md)
++   [JavaScript 和 JSON 基础知识](docs/js-json-essense/SUMMARY.md)
++   [面向孩子们的 JavaScript 项目](docs/js-proj-kid/SUMMARY.md)
++   [JavaScript 正则表达式教程](docs/js-re/SUMMARY.md)
++   [精通 TypeScript](docs/master-ts/SUMMARY.md)
++   [现代 JavaScript 应用](docs/modern-js-app/SUMMARY.md)
++   [JavaScript 反应式编程](docs/react-prog-js/SUMMARY.md)
 
 ## 贡献指南
 
