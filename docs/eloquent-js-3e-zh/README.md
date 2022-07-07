@@ -4,6 +4,8 @@
 
 译者：[飞龙](https://github.com/wizardforcel)
 
+阶段：精细校对（4）
+
 自豪地采用[谷歌翻译](https://translate.google.cn/)
 
 部分参考了[《JavaScript 编程精解（第 2 版）》](https://book.douban.com/subject/26707144/)
